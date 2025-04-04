@@ -1,2 +1,2 @@
 # belly-button-challenge
-leaflet challenge
+json challenge
