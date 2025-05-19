@@ -1,2 +1,2 @@
 # belly-button-challenge
-json challenge
+Worked with CJ Campbell on challenge
