@@ -2,7 +2,7 @@
 
 ## Deploy the Code
 
-Here you can see that I created a domain to run my code. Unfortunately we never went over this in class. After requesting a tutor, and troubleshoting it myself, I can not get the domain to run. I will show screenshots of the page and the link that shows when opened in Default Browser.
+Here you can see that I created a domain to run my code. Unfortunately we never went over this in class. After requesting a tutor, and troubleshoting it myself, I can not get the domain to run. I will show screenshots of the page and the link that shows when opened in Default Browser. After working with tutor, he instructed me to put screenshot in the Readme file and to write this message on  why I can not get the page to deploy.
 
 ![image](https://github.com/user-attachments/assets/4b5068ee-552b-4969-8837-0f9f1fd69d60)
 
