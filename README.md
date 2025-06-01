@@ -1,6 +1,6 @@
 # belly-button-challenge
 
-##Deploy the Code
+## Deploy the Code
 
 Here you can see that I created a domain to run my code. Unfortunately we never went over this in class. After requesting a tutor, and troubleshoting it myself, I can not get the domain to run. I will show screenshots of the page and the link that shows when opened in Default Browser.
 
